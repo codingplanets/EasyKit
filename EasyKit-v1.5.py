@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
-#   Welcome to EasyKit v2.0 developed in Python   #
+#   - - - - - - - - - - - - - - - - - - - - - -   #
+#   Welcome to EasyKit v1.5 developed in Python   #
 #   I do not take responsibility for your actions #
 #   with EasyKit. This code is/was meant for      #
 #   educational/researchive purposes only.        #
